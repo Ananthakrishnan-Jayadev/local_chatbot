@@ -1,0 +1,7 @@
+
+langchain 
+langchain-community
+langchain-core
+numpy
+faiss-cpu
+llama-cpp-python
